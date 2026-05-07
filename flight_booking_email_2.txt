@@ -1,0 +1,8 @@
+Flight Booking Confirmation
+----------------------------
+Passenger: John Doe
+Email: johndoe@gmail.com
+Flight Number: LA876
+Departure Time: 2026-05-10T14:00:00Z
+Arrival Time: 2026-05-10T20:00:00Z
+Booking Date: 2026-05-07T06:21:51.247Z
